@@ -1,0 +1,2 @@
+# VGsim_Params_Guesser
+This is a software implementation that can match work scenarios of scalable viral genealogy simulator for global pandemic taken from https://github.com/Genomics-HSE/VGsim. The programm contains two google-colab notebooks, these are VGsim_scenario_creator which forms dataset of VGsim runs with different (iterated) parametrs and VGsim_params_guesser that matches the scenarios and params by which those scenarios had got.
